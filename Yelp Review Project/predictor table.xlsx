@@ -1,0 +1,42 @@
+Words	ID	Words	ID	Words	ID
+useful	X1	mouth-watering/scrumptious/luscious.	X42	center/convenient	X83
+funny	X2	enjoy/palatable/delight/pleasing/satisf	X43	close	X84
+cool	X3	delicious/delectable/tasty/yum(my)	X36	pretty	X85
+nword	X4	flavor	X45	definitely/truly/especially	X86
+sentiment score	X5	distasteful/repulsive/sickening/unappetizing/unsavory	X46	though/while	X87
+gem	X6	rancid/stale/rotten	X47	wrong	X88
+incredible	X7	bad	X48	small	X89
+perfection	X8	not bad	X49	avoid/skip	X90
+phenomenal	X9	holy/wow/god	X50	insane	X91
+divine	X10	nice/happy/easy	X51	back	X92
+die	X11	wonderful/beautiful/best	X52	come	X93
+highly	X12	lovely	X53	!	X94
+superb	X13	better	X54	?	X95
+heaven	X14	like/love/great	X55	average	X81
+amazing	X15	look(ing) forward/worth	X56	interesting	X97
+favorites	X16	many/plenty of	X57	recommend	X98
+sourced	X17	well	X58	slip	X99
+perfect	X18	fine	X59	limit	X100
+knowledgeable	X19	cheap	X60	so-so	X101
+gross	X20	friendly/welcome/attentive/passion	X61		
+poorly	X21	unique/creative	X62		
+response	X22	fresh/authentic/healthy	X63		
+flavorless	X23	disappoint	X64		
+waste	X24	return	X65		
+terrible	X25	not good	X66		
+tasteless	X26	good	X67		
+rude	X27	noisy/dirty/nothing	X68		
+awful	X28	quiet/comfortable	X69		
+inedible	X29	never/forever	X70		
+horrible	X30	but/however	X71		
+apology	X31	terrible/trouble/weird	X72		
+disgusting	X32	reserve(d)/reservation	X73		
+worst	X33	crowded	X74		
+appealing	X34	wait/even/slow	X75		
+appetite	X35	have to	X76		
+nausea	X44	worse/awful	X77		
+choice	X37	expensive	X78		
+excellent	X38	serious	X79		
+superior	X39	awesome	X80		
+top-notch/first-rate	X40	outstanding/extraordinary/best	X96		
+high-quality	X41	clean/tidy/fast	X82		
